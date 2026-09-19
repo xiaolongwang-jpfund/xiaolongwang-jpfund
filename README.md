@@ -20,8 +20,12 @@ A lifelong learner, practitioner of dollar-cost averaging, and a long-term inves
 
 I'm a lifelong learner and long-term investor, with a strong interest in investing, education, technology, travel, and the practical use of AI.
 
-I believe in learning continuously, thinking independently, and turning knowledge into action.
+我热爱自学，长期关注投资、教育、科技与旅行，也在持续探索人工智能在学习、工作与生活中的实际应用。
 
-我热爱学习，长期关注投资、教育、科技与旅行，也在持续探索人工智能在学习、工作与生活中的实际应用。
+## 🎯 Current Focus
 
-我相信长期主义、独立思考，以及知行合一。
+- 📖 Reading & thinking — English original works
+- 💻 Practical use of AI — ChatGPT, Codex & automation
+- 📈 Long-term investing — DCA & global markets
+- 🎓 Supporting my family's education and growth
+- 🌏 Exploring the world — travel, culture & food
